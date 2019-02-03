@@ -1875,7 +1875,7 @@ body {
 .cid-rgYmqRxyiA {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 @media (max-width: 767px) {
   .cid-rgYmqRxyiA .media-wrap {
@@ -1937,5 +1937,5 @@ body {
   }
 }
 .cid-rgYmqRxyiA .copyright > p {
-  color: #465052;
+  color: #767676;
 }
