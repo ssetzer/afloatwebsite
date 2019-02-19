@@ -88,11 +88,11 @@
               "text-align": "left"
             },
             "H3": {
-              "color": "#465052",
+              "color": "#036774",
               "text-align": "left"
             },
             "P": {
-              "color": "#232323",
+              "color": "#058696",
               "text-align": "left"
             }
           },
@@ -113,6 +113,9 @@
             ".mbr-section-subtitle": {
               "color": "#767676",
               "text-align": "center"
+            },
+            "H2": {
+              "color": "#036774"
             }
           },
           "_name": "content4",
@@ -138,7 +141,8 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#333333"
             },
             ".inner-container": {
               "margin": "0 auto"
